@@ -1,4 +1,4 @@
 # team_repository
 
-Nathan Cole
-Anthony Pei
+Nathan Cole  
+Anthony Pei  
